@@ -8,3 +8,10 @@ During the course of the project I have utilised technologies R,Python,SQL .
 First, I have performed data cleaning using R. Cleaning the data set involves cleaning of data by removing null 
 values, unwanted data, from the dataset, removing duplicate values from the dataset.Post data cleaning in R, I have used python to perform analysis on the cleaned dataset. After loading the datasets into python, I have tried to analyze the patterns of our target variable potential, skill and wages.I have used sql to obtain more insights on the given data.
 
+Data.csv: Contains the FIFA dataset.
+PhysiPowerPay_Code. R: Contains the R code , using which I have performed the cleaning operations.
+PhysiPowerPay.ipynb: Contains python code using which I have performed visualization.
+PhysiPowerPay_SQL: Contains SQL queries, used to gain deeper analysis.
+Presentation_Recording: Contains overall presentation recording of me delivering presentation regarding the analysis.
+Research_Paper : Contains summary of the overall research done on the fifa players data set.
+

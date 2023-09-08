@@ -1,7 +1,7 @@
 
-LoansGraphRedux is a project undertaken to gain insight on identifying a bad visualization and redesigning the visualization adhering to standard design principles.
-Below is the index of files available.
-Code.R : This file contains R code which I have used to load the original data set, and perform a new visualisation.
+The LoansGraphRedux project aims to enhance our understanding of recognizing poor visualizations and subsequently improving them by adhering to established design principles. Below is an index of available files:
+
+Code.R: This file comprises the R code utilized to load the initial dataset and create a new visualization.
 FY_2020_loans_by_state: Dataset
-InitialVisualisation.png : Image of the original visualisation.
-redesignedPlot.html : HTML file containing the redesigned plot.
+InitialVisualisation.png: Image representing the original visualization.
+redesignedPlot.html: HTML file housing the enhanced plot

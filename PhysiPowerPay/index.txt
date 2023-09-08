@@ -1,1 +1,10 @@
+FIFA is an organization that hosts the World Cup every four years, which is a hugely popular event with 
+a global audience. This data set includes information about players from many nations, which allows me 
+to examine patterns in relation to the most well-known game. Univariate analysis, Bivariate analysis is 
+used to illustrate the distribution of target variables, relationship among different variables and obtain a 
+sense of the relationship.
+During the course of the project I have utilised technologies R,Python,SQL .
+
+First, I have performed data cleaning using R. Cleaning the data set involves cleaning of data by removing null 
+values, unwanted data, from the dataset, removing duplicate values from the dataset.Post data cleaning in R, I have used python to perform analysis on the cleaned dataset. After loading the datasets into python, I have tried to analyze the patterns of our target variable potential, skill and wages.I have used sql to obtain more insights on the given data.
 

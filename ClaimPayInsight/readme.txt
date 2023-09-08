@@ -1,1 +1,1 @@
-
+Objective of this project is to perform an exploratory data analysis on the claims_df dataset and produce an executive summary of  key insights and recommendations to the executive team at the insurance company.
